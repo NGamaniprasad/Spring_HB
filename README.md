@@ -35,7 +35,7 @@ A Java-based **Book Store Management System** developed using the **Spring Frame
 | MySQL | 8.x |
 | Apache Tomcat | 8.5+ |
 | Eclipse IDE | 2024+ |
-| Maven | Dependency Management |
+
 
 ---
 
